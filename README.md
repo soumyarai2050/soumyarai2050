@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Coder :)
-- 👀 I’m interested in C++, Python, Trading
+- 👀 I’m interested in C++, Python, Trading, BlockChain, ChatBots, Cyber Security and Automation
 - 🌱 I’m currently learning RTL (System Verilog)
 - 💞️ I’m looking to collaborate on developing trading algorithms 
 - 📫 How to reach me : soumyarai2050@gmail.com
